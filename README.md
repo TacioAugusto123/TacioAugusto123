@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tacio</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A backend developer passionate about JAVA and Accounting from Brazil</h3>
 
 - 🌱 I’m currently learning **JAVA, Spring Boot, AWS, Docker**
 
